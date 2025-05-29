@@ -30,14 +30,14 @@ class DeliveryLogsController {
       throw new AppError("this order has already been delivered");
     }
 
-    await prisma.deliveryLog.create({
+    const deliveryLog = await prisma.deliveryLog.create({
       data: {
         deliveryId: delivery_id,
         description,
       },
     });
 
-    return response.json({ message: "Ok Logs" });
+    return response.json(deliveryLog);
   }
 
   async show(request: Request, response: Response) {
