@@ -25,7 +25,7 @@ A API permite:
 
 > Representação visual do fluxo principal da API de entregas (cadastro, login, criação e acompanhamento de pedidos):
 
-![Fluxo da API de Entregas](<./img/image%20(2).png>)
+![Fluxo da API de Entregas]![Image](https://github.com/user-attachments/assets/2e8ed05d-f998-4a58-8a4c-9600f64a0128))
 
 ---
 
@@ -33,13 +33,13 @@ A API permite:
 
 > Diagrama das tabelas e seus relacionamentos no banco de dados PostgreSQL:
 
-![Estrutura do Banco de Dados](<./img/image%20(3).png>)
+![Estrutura do Banco de Dados](![Image](https://github.com/user-attachments/assets/5fa66c9f-e261-40f6-8492-35b01f4cebdc))
 
 ---
 
 ## 🗂️ Preview da Aplciação
 
-![preciew da aplciação](./img/Delivery-Api.png)
+![preciew da aplciação](![Image](https://github.com/user-attachments/assets/f50d724c-af79-47c7-883f-133e76b6ceb5))
 
 ## 🛠️ Tecnologias Utilizadas
 
