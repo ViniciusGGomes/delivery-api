@@ -20,7 +20,7 @@
     "express": "^4.19.2",
     "express-async-errors": "^3.1.1",
     "jsonwebtoken": "^9.0.2",
-    "zod": "^3.23.8"
+    "zod": "^3.25.53"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
